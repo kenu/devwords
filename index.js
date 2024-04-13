@@ -90,6 +90,5 @@ function getString() {
   const random = Math.floor(Math.random() * array.length);
   return array[random];
 }
-console.log("🙊 " + getString());
 
 module.exports = getString;
