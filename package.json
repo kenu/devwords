@@ -1,0 +1,25 @@
+{
+  "name": "devwords",
+  "version": "0.1.0",
+  "description": "Korean Developer Sayings",
+  "main": "index.js",
+  "keywords": [
+    "devwords",
+    "sayings",
+    "words",
+    "developer"
+  ],
+  "author": "kenu",
+  "homepage": "https://okdevtv.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenu/devwords.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
