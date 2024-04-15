@@ -21,3 +21,6 @@ npm install devwords
 const devwords = require('devwords');
 console.log(devwords());
 ```
+
+## making video
+- https://www.youtube.com/watch?v=4iX4qKah9pY
